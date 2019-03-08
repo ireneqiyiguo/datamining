@@ -9,3 +9,5 @@
 2. 特征工程：分别用IV值和随机森林等进行特征选择
 
 3. 模型构建：用逻辑回归、svm和决策树；随机森林和XGBoost进行模型构建，不需要考虑模型调参
+
+4. 记录5个模型（逻辑回归、SVM、决策树、随机森林、XGBoost）关于accuracy、precision，recall和F1-score、auc值的评分表格，并画出ROC曲线
